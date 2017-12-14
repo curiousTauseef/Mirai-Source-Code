@@ -12,6 +12,9 @@ See "ForumPost.txt" for the post in which it leaks, if you want to know how it i
 * mysql-server
 * mysql-client
 
+## Code Analysis
+https://www.incapsula.com/blog/malware-analysis-mirai-ddos-botnet.html
+
 ## Credits
 [Anna-senpai](https://hackforums.net/showthread.php?tid=5420472)
 
